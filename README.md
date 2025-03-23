@@ -30,6 +30,14 @@ Hotel Recommender – система рекомендаций отелей на 
 pip install -r requirements.txt
 ```
 
+## Подготовка данных
+
+Перед запуском проекта необходимо создать папку `Data` и загрузить датасет с отзывами по следующей [ссылке](https://www.kaggle.com/datasets/kyakovlev/yandex-geo-reviews-dataset-2023?select=geo-reviews-dataset-2023.csv).
+
+1. Перейдите по ссылке и скачайте файл `geo-reviews-dataset-2023.csv`.
+2. Создайте папку `Data` в корне проекта.
+3. Поместите загруженный файл `geo-reviews-dataset-2023.csv` в папку `Data`.
+
 ## Использование
 
 ### 1. Обучение модели
