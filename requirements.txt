@@ -1,0 +1,8 @@
+pandas
+numpy
+nltk
+stanza
+scikit-learn
+joblib
+tqdm
+scipy
